@@ -122,44 +122,44 @@ function screenFinalFavorites() {
             <p>you said yes?? oh.. well.. counting the days until you're back 💗</p>
           </div>
 
-          <div class="polaroid" style="left: 10%; top: 32%; --w: 260px; --r: -6deg;">
+          <div class="polaroid" style="left: 10%; top: 180px; --w: 260px; --r: -6deg;">
             <img src="images/chickfila.jpg" alt="Chick-fil-A sandwich">
           </div>
 
-          <div class="polaroid" style="left: 38%; top: 16%; --w: 250px; --r: 4deg;">
+          <div class="polaroid" style="left: 52%; top: 220px; --w: 260px; --r: 4deg;">
             <img src="images/cake.jpg" alt="Chocolate mousse cake">
             <div class="cap">chocolate mousse cake 🍫🍰</div>
           </div>
 
-          <div class="polaroid" style="left: 62%; top: 34%; --w: 260px; --r: 7deg;">
+          <div class="polaroid" style="left: 18%; top: 760px; --w: 260px; --r: 7deg;">
             <img src="images/noodles.jpg" alt="Noodles">
             <div class="cap">NOODLES 🍜🍜🍜</div>
           </div>
 
-          <div class="polaroid" style="left: 44%; top: 56%; --w: 230px; --r: -3deg;">
+          <div class="polaroid" style="left: 60%; top: 980px; --w: 240px; --r: -3deg;">
             <img src="images/marshmallows.jpg" alt="Marshmallows">
             <div class="cap">marshmallows ☁️🍡</div>
           </div>
 
-          <div class="polaroid" style="left: 68%; top: 14%; --w: 260px; --r: 3deg;">
+          <div class="polaroid" style="left: 70%; top: 520px; --w: 280px; --r: 3deg;">
             <img src="images/gilmore.jpg" alt="Gilmore">
             <div class="cap">gilmore vibes ☕️📚</div>
           </div>
 
           <!-- Fish burrito (bigger) -->
-          <div class="polaroid" style="left: 6%; top: 58%; --w: 300px; --r: 4deg;">
+          <div class="polaroid" style="left: 8%; top: 1220px; --w: 300px; --r: 4deg;">
             <img src="images/fish_burrito.jpg" alt="Fish burrito">
             <div class="cap">elite fish burrito 🌯🐟</div>
           </div>
           
           <!-- OC poster (BIG) -->
-          <div class="polaroid" style="left: 30%; top: 58%; --w: 380px; --r: -3deg;">
+          <div class="polaroid" style="left: 40%; top: 1280px; --w: 420px; --r: -3deg;">
             <img src="images/oc.jpg" alt="OC poster">
             <div class="cap">poster energy 🎬</div>
           </div>
           
           <!-- Modern poster (BIG) -->
-          <div class="polaroid" style="left: 68%; top: 42%; --w: 380px; --r: 5deg;">
+          <div class="polaroid" style="left: 55%; top: 1720px; --w: 420px; --r: 5deg;">
             <img src="images/modern1.jpg" alt="Modern poster">
             <div class="cap">modern vibes 🖼️</div>
           </div>
