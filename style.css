@@ -485,22 +485,25 @@ button:active { transform: scale(0.98); }
 /* MOBILE FIX: turn the corkboard into a clean scrollable stack */
 @media (max-width: 520px) {
   .final {
-    height: auto;         /* allow page to grow */
-    overflow: auto;       /* enable scrolling */
+    height: auto;          /* allow content to extend */
+    min-height: 100vh;
+    overflow-y: auto;      /* enable vertical scrolling */
+    -webkit-overflow-scrolling: touch;
   }
 
   .collage {
     height: auto;
+    display: block;        /* don't center it like a poster */
     padding: 14px;
-    display: block;       /* stop centering */
   }
 
+  /* Let the board grow instead of being limited to 78vh */
   .collage-board {
     height: auto;
-    width: 100%;
-    max-width: 100%;
-    padding: 12px;
-    overflow: visible;
+    min-height: 900px;     /* enough space for bottom items */
+  }
+}
+
 
     /* stack everything nicely */
     display: grid;
